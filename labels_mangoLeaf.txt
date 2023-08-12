@@ -1,0 +1,6 @@
+0 Healthy
+1 Bacterial Canker
+2 Anthranose
+3 Gall Midge
+4 Powdery Mildew
+5 Sooty Mould
